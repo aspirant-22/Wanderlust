@@ -101,7 +101,7 @@ app.listen(port , (req , res) => {
 })
 
 app.get("/" , (req , res) => {
-    res.send("server working well");
+    res.redirect("/listings");
 })
 
 //-------------Code for connecting mongoose with Node.js--------------
