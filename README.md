@@ -129,14 +129,8 @@ These challenges significantly improved my understanding of full-stack applicati
 
 ## 📸 Application Screens
 
-* Home Page
-* Listing Details Page
-* Create Listing Form
-* Edit Listing Form
-* User Authentication Pages
-* Review System
-
-*(Add screenshots here for maximum impact.)*
+#### Home Page
+<img width="960" height="540" alt="Screenshot 2026-06-27 121725" src="https://github.com/user-attachments/assets/87ba3885-3ed8-43b9-b192-3bc02588f229" />
 
 ---
 
