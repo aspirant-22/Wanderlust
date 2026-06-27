@@ -6,8 +6,6 @@
 
 Built entirely from scratch using the **Full Stack ecosystem principles** with **Node.js, Express.js, MongoDB, EJS, and Bootstrap**, WanderLust demonstrates full-stack development, authentication, database management, cloud-based image storage, and deployment practices.
 
-> This project was independently designed, developed, debugged, and deployed by me, with every feature implemented through hands-on coding and problem-solving.
-
 ---
 
 ## ✨ Key Features
